@@ -1,0 +1,179 @@
+#div10{
+	height:102px;
+	width:1505px;
+	background:#007cffa3;
+}
+
+.center{
+	display:block;
+	margin: 20px 20px 20px 20px;
+	float:left;
+}
+
+.div1{
+	height:980px;
+	width:1505px;
+	background: linear-gradient(to top right, #cc00ff 30%, #6600ff 70%);
+	background-attachment:fixed;
+	color:white;
+	margin-bottom:35px;
+	margin-top:-45px;
+	background-repeat:no-repeat;
+}
+
+.a{
+	text-align:left;
+	font-size:5em;
+	font-family:Ariel;
+}
+
+.c{
+	font-size:3em;
+	text-align:center;
+	margin-top:110px;
+	font-family:Trebuchet MS;
+	letter-spacing:7px;
+}
+
+.d{
+	font-size:2em;
+	text-align:center;
+	margin-bottom:145px;
+	margin-top:90px;
+	font-family:Comic Sans MS;
+}
+
+.btn1{
+	width:170px;
+	height:75px;
+	font-size:45px;
+	font-family:Ariel;
+	color:black;
+	border-radius:30px;
+	background-color:yellow;
+	cursor:pointer;
+	margin:auto;
+	display:block;
+}
+
+.btn1:hover{
+	color:white;
+	background:black;
+}
+
+
+#div2{
+	height:100px;
+	background:white;
+	text-align:center;
+	font-size:3.5em;
+	color:blue;
+}
+
+audio{
+	width:600px;
+}
+
+.div5{
+	background:linear-gradient(to bottom left, #ffff66 30%, #99ff33 70%);
+	color:black;
+	font-family:Arial;
+	margin: 20px 0px 70px 0px;
+}
+
+form{
+	margin:20px;
+}
+
+input[type=submit]{
+	width:74px;
+	height:30px;
+	font-size:20px;
+	font-family:Ariel;
+	color:white;
+	border-radius:10px;
+	background-color:blue;
+	cursor:pointer;
+}
+
+input[type=reset]{
+	width:74px;
+	height:30px;
+	font-size:20px;
+	font-family:Ariel;
+	color:White;
+	border-radius:10px;
+	background-color:blue;
+	cursor:pointer;
+}
+
+
+label{
+	font-weight:bold;
+}
+
+input[type=text]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+
+input[type=date]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+
+input[type=number]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+	
+input[type=tel]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+	
+input[type=password]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+	
+input[type=feedback]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+
+input[type=email]{
+	width:500px;
+	height:30px;
+	border:2px solid black;
+	border-radius:7px;
+}
+
+textarea{
+	border-radius:7px;
+}
+
+.div3{
+	width:400px;
+	height:300px;
+	margin-left:300px;
+	float:left;
+}
+
+.div4{
+	width:600px;
+	height:300px;
+	float:left;
+}
