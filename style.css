@@ -13,7 +13,7 @@
 .div1{
 	height:980px;
 	width:1505px;
-	background: linear-gradient(to top right, #cc00ff 30%, #6600ff 70%);
+	background: linear-gradient(to top right, #003cff9c 30%, #6600ff 70%);
 	background-attachment:fixed;
 	color:white;
 	margin-bottom:35px;
@@ -75,10 +75,10 @@ audio{
 }
 
 .div5{
-	background:linear-gradient(to bottom left, #ffff66 30%, #99ff33 70%);
+	background:linear-gradient(to bottom left, #ff6666 30%, #ff335f23 70%);
 	color:black;
 	font-family:Arial;
-	margin: 20px 0px 70px 0px;
+	margin: 20px 0px 534px 0px;
 }
 
 form{
